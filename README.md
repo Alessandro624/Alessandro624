@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Alessandro624
+- 💻 I’m interested in Computer Science
+- 📒 I'd like to learn new things and help people with their issues
