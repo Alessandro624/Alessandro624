@@ -5,5 +5,5 @@
 
 ## 💫 About Me:
 - 💻 I’m a Computer Science student at Unical
-- 🌱 I’m currently learning more about CUDA, Web Applications, Networks and Software Engineering
+- 🌱 I’m currently learning more about CUDA, Genetic Algorithms, Artificial Intelligence and Enterprise Applications
 - 📒 I'd like to learn new things and meet new people
