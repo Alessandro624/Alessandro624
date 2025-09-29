@@ -30,8 +30,8 @@
 # 📊 GitHub Stats
 
 <div align="center"> 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Alessandro624&show_icons=true&hide_border=true&title_color=0abde3&icon_color=1dd1a1&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true"/> 
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandro624&layout=compact&hide_border=true&title_color=0abde3&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Alessandro624&show_icons=true&hide_border=true&title_color=0abde3&icon_color=1dd1a1&text_color=ffffff&bg_color=0d1117&count_private=true"/> 
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandro624&layout=compact&hide_border=true&title_color=0abde3&text_color=ffffff&bg_color=0d1117&count_private=true" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Alessandro624&hide_border=true&theme=dark" />
 </div>
 
